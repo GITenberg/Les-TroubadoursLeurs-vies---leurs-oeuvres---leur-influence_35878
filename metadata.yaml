@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2958
     wikipedia: http://fr.wikipedia.org/wiki/Joseph_Anglade
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35878#Les-TroubadoursLeurs-vies---leurs-oeuvres---leur-influence
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2011-04-15'
 gutenberg_type: Text
