@@ -1,0 +1,33 @@
+_repo: Les-TroubadoursLeurs-vies---leurs-oeuvres---leur-influence_35878
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anglade, Joseph
+    birthdate: 1868
+    deathdate: 1930
+    gutenberg_agent_id: '2958'
+    url: http://www.gutenberg.org/2009/agents/2958
+    wikipedia: http://fr.wikipedia.org/wiki/Joseph_Anglade
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2011-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35878'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Provençal poetry -- History and criticism'
+- !lcsh 'Poets, Provençal -- Biography'
+- !lcsh 'Civilization, Medieval, in literature'
+- !lcc 'PC'
+- !lcsh 'Troubadours'
+title: 'Les Troubadours
+
+  Leurs vies — leurs oeuvres — leur influence'
+url: http://www.gutenberg.org/ebooks/35878
